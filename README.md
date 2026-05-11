@@ -89,7 +89,7 @@ ORIGINAL TIME SERIES DATA:
 TREND PLOT :
 <img width="1197" height="338" alt="image" src="https://github.com/user-attachments/assets/14e0cb07-91d0-43d1-a1f4-ba675042dcb2" />
 
-SEASONAL PLOT REPRESENTATION :
+SEASONAL PLOT :
 
 <img width="1205" height="346" alt="image" src="https://github.com/user-attachments/assets/53671451-8c95-4f94-b378-63981d2421a2" />
 
